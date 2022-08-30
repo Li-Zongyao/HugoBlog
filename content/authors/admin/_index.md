@@ -67,5 +67,5 @@ Li Zongyao is currently a master's student in CS at The George Washington Univer
 Currently working with Professor
 [Peng Wei](https://www.seas.gwu.edu/peng-wei) on the visual recognition of UAV automatic landing. And also trying to learn NLP sentiment analysis
 
-Download my [resumé] (https://github.com/Li-Zongyao/Li-Zongyao.github.io/blob/main/ZongyaoLi_resume_ML2.0.pdf)
+Download my [resumé](https://github.com/Li-Zongyao/Li-Zongyao.github.io/blob/main/ZongyaoLi_resume_ML2.0.pdf)
 
